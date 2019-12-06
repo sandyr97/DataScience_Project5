@@ -7,11 +7,11 @@ Steps:
 a.	Remove NaN Values <br />
 3.	Feature Engineering <br />
 a.	Original data frame <br />
-i.	Frequency of Product <br />
+  i.	Frequency of Product <br />
 b.	Product 1359 data frame <br />
-i.	Month <br />
-ii.	Day <br />
-iii.	Year <br />
+  i.	Month <br />
+  ii.	Day <br />
+  iii.	Year <br />
 iv.	Average Order Demand <br />
 4.	Visualization <br />
 a.	Distribution <br />
