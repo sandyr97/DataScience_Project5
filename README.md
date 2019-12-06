@@ -9,10 +9,10 @@ a.	Remove NaN Values <br />
 a.	Original data frame <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	Frequency of Product <br />
 b.	Product 1359 data frame <br />
-  i.	Month <br />
-  ii.	Day <br />
-  iii.	Year <br />
-iv.	Average Order Demand <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	Month <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.	Day <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii.	Year <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. 	Average Order Demand <br />
 4.	Visualization <br />
 a.	Distribution <br />
 b.	Trends <br />
