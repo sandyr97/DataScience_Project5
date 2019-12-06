@@ -1,0 +1,4 @@
+https://www.dataquest.io/blog/tutorial-time-series-analysis-with-pandas/
+https://stackoverflow.com/questions/20618804/how-to-smooth-a-curve-in-the-right-way
+https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/
+https://www.machinelearningplus.com/time-series/time-series-analysis-python/
