@@ -7,7 +7,7 @@ Steps:
 a.	Remove NaN Values <br />
 3.	Feature Engineering <br />
 a.	Original data frame <br />
-  i.	Frequency of Product <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	Frequency of Product <br />
 b.	Product 1359 data frame <br />
   i.	Month <br />
   ii.	Day <br />
